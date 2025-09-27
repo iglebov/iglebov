@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🚀 System Architect & Automation Expert
 
-<!--
-**iglebov/iglebov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 
+I'm Ivan, a passionate system architect with over 3 years of experience building and automating systems for major companies.
 
-Here are some ideas to get you started:
+**🌐 [Website](https://iglebov.github.io/web/)** | **📧 iglebov40@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Habr](https://img.shields.io/badge/Habr-Articles-blue?logo=habr)](https://habr.com/ru/users/iglebov/articles/)
+
+---
+
+### 💻 Tech Stack & Skills
+
+| **Programming & Frameworks** | **Tools & Platforms** |
+| :--- | :--- |
+| `Python` (Django, Celery, asyncio, streamlit, pywinauto) | `Git` (GitHub, GitLab, CI/CD) |
+| `HTML`, `CSS` | `Docker` |
+| `Pascal` | `Databases`: PostgreSQL |
+
+**🗣️ Languages:** Russian (Native), English (B2)
+
+---
+
+### 🎓 Education & Certifications
+
+*   **Moscow State Technical University (Bauman)** – MSc, Applied Mathematics (*2025 – 2027*)
+*   **Moscow State Technical University (Bauman)** – BSc, Business Informatics (Graduated with Honors) (*2021 – 2025*)
+*   **Stepik, SoloLearn** – Certificates in Python, Linux, C++, Web Dev, Cybersecurity, and more.
