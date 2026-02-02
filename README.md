@@ -13,7 +13,7 @@ I'm Ivan, a system architect with over 3 years of experience building and automa
 
 | **Programming & Frameworks** | **Tools & Platforms** |
 | :--- | :--- |
-| `Python` (Django, Celery, asyncio, streamlit, pywinauto) | `Git` (GitHub, GitLab, CI/CD) |
+| `Python` (Django, Celery, asyncio, selenium, pywinauto) | `Git` (GitHub, GitLab, CI/CD) |
 | `HTML`, `CSS` | `Docker`, `Ansible` |
 | `Pascal` | `Databases`: PostgreSQL |
 
